@@ -7,6 +7,7 @@ function Navbar() {
   const [menu, setMenu] = useState('home');
   return (
     <div className='navbar'>
+      <div className='div1'>Portfolio</div>
       <ul className='nav-menu'>
         <li>
           <Link className='anchor-link' to='/home'>

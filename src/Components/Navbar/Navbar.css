@@ -45,3 +45,14 @@
         right: -350px;
     }
 }
+.div1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    font-weight: 600;
+    font-style: initial
+}
+p{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:whitesmoke
+}
